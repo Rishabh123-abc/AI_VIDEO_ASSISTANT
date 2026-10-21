@@ -43,9 +43,7 @@ def download_youtube_audio(url: str) -> str:
         "cachedir": False,
 
         # Let yt-dlp use Deno when installed and detected.
-        "js_runtimes": {
-            "deno": {}
-        },
+        
 
         # Enable yt-dlp's supported YouTube challenge components.
         "remote_components": ["ejs:github"],
