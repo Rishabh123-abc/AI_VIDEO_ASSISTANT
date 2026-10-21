@@ -37,3 +37,5 @@ python-magic-bin>=0.4.14; platform_system == "Windows"
 audioop-lts
 langchain-chroma
 langchain-text-splitters
+yt-dlp[default]
+imageio-ffmpeg

@@ -1,2 +1,1 @@
-yt-dlp[default]
-imageio-ffmpeg
+ffmpeg
