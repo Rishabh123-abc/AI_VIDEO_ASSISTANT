@@ -35,3 +35,5 @@ reportlab>=4.2,<5.0
 # Windows-only optional dependency
 python-magic-bin>=0.4.14; platform_system == "Windows"
 audioop-lts
+langchain-chroma
+langchain-text-splitters
