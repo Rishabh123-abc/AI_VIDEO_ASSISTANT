@@ -15,10 +15,10 @@ langchain-groq>=0.2,<1.0
 openai-whisper>=20240930
 
 # YouTube audio download
-yt-dlp[default]
+
 
 # Audio/video processing
-pydub>=0.25.1
+pydub
 imageio-ffmpeg>=0.5.1
 
 # Hugging Face embeddings
